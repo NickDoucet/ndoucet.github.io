@@ -17,6 +17,8 @@ Below is the list of peer-reviewed articles, preprints, and book chapters author
 
 ## 2026
 
+- Fuselier, C.; Joly de Boissel, P. G.; Nehmé, R.; Paré, A.; Fronton, F.; Ajarrag, S.; Bui, D. T.; Fortier, M.; Dumoulin, A.; Klassen, J. S.; **Doucet, N.**, Chatenet, D.; St-Pierre, Y. Nanobody-Based Characterization of Galectin-13 Reveals Immunomodulatory and Tumor-Promoting Functions. _**Journal of Biological Chemistry**_ 2026, Aug 19:113467. Epub ahead of print. <https://doi.org/10.1016/j.jbc.2026.113189>.
+  
 - Larda, S. T.; Paré, A.; **Doucet, N.** Soluble Protein Analog Selection Engine (SPASE): An Automated AI-Powered Server to Improve Protein Engineering Workflows. **_Protein Science_** 2026, 35 (9), e70733. <https://doi.org/10.1002/pro.70733>. [Click here to access the SPASE server.](https://spaseproteindesign.share.zrok.io/home.html)
 
 - Tran, T. T. Q.; Larda, S. T.; Nieves, C.; Veyrier, F. J.; Calmettes, C.; **Doucet, N.** Engineering Human RNase 7 with an Eosinophil RNase Segment Reveals Determinants of Cytotoxic and Antimicrobial Activity. _**Journal of Biological Chemistry**_ 2026, 302 (7), 113189. <https://doi.org/10.1016/j.jbc.2026.113189>.
